@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2024 12:03:48 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Page</title>
+      <link>http://localhost:1313/posts/first-page/</link>
+      <pubDate>Wed, 02 Oct 2024 12:03:48 -0300</pubDate>
+      <guid>http://localhost:1313/posts/first-page/</guid>
+      <description>&lt;h1 id=&#34;guia-de-ux-para-desarolladores&#34;&gt;Guia de UX para desarolladores&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://platform-docs.slingr.io/images/vendor/slingr_blue.png&#34; alt=&#34;Slingr logo&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;objetivo&#34;&gt;&lt;strong&gt;Objetivo&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Esta guía tiene como propósito principal establecer y documentar recomendaciones y mejores prácticas para diseñar y evaluar nuestro producto (SLINGR) centrado en el usuario. Esta debe ser un soporte para nuestros desarrolladores Front-End, así mantener consistencia en toda la plataforma, también reducir errores y simplificar los tiempos de desarrollo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;principios-generales&#34;&gt;&lt;strong&gt;Principios Generales&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Es necesario seguir lo que llamamos &amp;ldquo;Principios Generales de Diseño&amp;rdquo; para asegurar que la aplicación sea eficiente, intuitiva y agradable tanto para los usuarios asi como tambien los clientes finales. Estos principios ayudan a mantener la coherencia y la calidad en todo el proceso de desarrollo. A continuación, se describen algunos de los principios más importantes:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
