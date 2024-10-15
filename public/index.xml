@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/labels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/labels/</guid>
+      <description>&lt;h2 id=&#34;labels&#34;&gt;&lt;strong&gt;Labels&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Para los labels, hemos decidido modificar el comportamiento del responsive (wrappeo) para los HTML Tags. Si se llegase a hacer un ajuste a los labels por defecto, deberiamos alinearlos con estos cambios.&lt;/p&gt;&#xA;&lt;p&gt;Le hemos agregado una mejoria para cortar los labels con la propiedad &lt;strong&gt;word-break&lt;/strong&gt; setteada en &lt;strong&gt;auto-phrase&lt;/strong&gt;. Esto se debe a que estabamos cortando las palabras para aprovechar espacio y no siendo concientes de la usabilidad de la misma. Respecto a grandes strings lo logico es poder ver toda la palabra en linea (por ejemplo un ID), asique este cambio se alinea con nuestra politica.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/nuevaui/botones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nuevaui/botones/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/viejaui/alertas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/viejaui/alertas/</guid>
+      <description>&lt;h2 id=&#34;alertas&#34;&gt;&lt;strong&gt;Alertas&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Medidas: Full width x 52px&lt;/p&gt;&#xA;&lt;p&gt;Estilos: Usaremos los colores por defeto de BS3 (NO BS5); es decir: info success danger warning.&lt;/p&gt;&#xA;&lt;p&gt;Contenido: el texto en dichas alertas debera estar en 14px, estilo bold (strong). Tambien puede contar con contenido secundario con la misma fuente pero en estilo normal, no bold.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/viejaui/botones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/viejaui/botones/</guid>
+      <description>&lt;h2 id=&#34;botones&#34;&gt;&lt;strong&gt;Botones&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;En cuanto los botones utilizamos una medida estandard de 30px de alto y el width dependera del contenido del mismo&lt;/p&gt;&#xA;&lt;p&gt;La fuente debe respetar el lineamiento general (14px Open Sans)&lt;/p&gt;&#xA;&lt;p&gt;Uso de color primary como color principal&lt;/p&gt;&#xA;&lt;p&gt;slingr-button&lt;/p&gt;&#xA;&lt;p&gt;Alineamiento de icono a la izquierda, 16px con un padding de 4px&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/viejaui/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/viejaui/header/</guid>
+      <description>&lt;h2 id=&#34;header-principal-de-aplicación&#34;&gt;&lt;strong&gt;Header principal de aplicación&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Medidas: full width x 50px (extensible segun el contenido, +12px por linea)&lt;/p&gt;&#xA;&lt;p&gt;Este header es el que contiene el que proovera contexto al usuario para decirle en qué aplicacion se encuentra, a la vez de permitirle al desarrollador alocar acciones globales.&lt;/p&gt;&#xA;&lt;p&gt;Elementos fijos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Menú hamburguesa:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;header&#34;&gt;&lt;strong&gt;Header&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Medidas: full width x 50px.&lt;/p&gt;&#xA;&lt;p&gt;Estilos: &amp;ldquo;Header Title&amp;rdquo; y  &amp;ldquo;Header Subtitle&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Padding:&lt;/p&gt;&#xA;&lt;p&gt;En cuanto los estilos se divide en dos:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/viejaui/temas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/viejaui/temas/</guid>
+      <description>&lt;h2 id=&#34;temas-y-colores&#34;&gt;&lt;strong&gt;Temas y colores&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Los temas se componen del siguiente listado de colores:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Primary ()&lt;/li&gt;&#xA;&lt;li&gt;Secondary&lt;/li&gt;&#xA;&lt;li&gt;Terciary&lt;/li&gt;&#xA;&lt;li&gt;Info&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Estos generalmente son previstos por clientes y nos van a dar las indicaciones necesarias para poder identificar cada color.&#xA;Lo recomendable es que para los colores de &lt;strong&gt;Warning, Danger y Success&lt;/strong&gt;, utilicemos amarillos rojos y verdes que hagan buen contraste con el color. Esto lo podemos obtener del cliente o bien consultando con UX.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

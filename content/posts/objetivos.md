@@ -59,78 +59,13 @@ Seguir estos principios no solo mejora la experiencia del usuario, sino que tamb
 - **Incrementa la satisfacción del usuario:** Conduce a una mayor adopción y retención de la aplicación.
 
 # Lineamientos de diseño visual para Runtime
+
 ## **Fuente**
 
 Como fuente principal en Slingr utilizamos *Open Sans* en 14px.
 
-## **Temas y colores**
-
-Los temas se componen del siguiente listado de colores:
-- Primary ()
-- Secondary
-- Terciary
-- Info
-
-Estos generalmente son previstos por clientes y nos van a dar las indicaciones necesarias para poder identificar cada color.
-Lo recomendable es que para los colores de **Warning, Danger y Success**, utilicemos amarillos rojos y verdes que hagan buen contraste con el color. Esto lo podemos obtener del cliente o bien consultando con UX.
 
 
-## **Botones**
-En cuanto los botones utilizamos una medida estandard de 30px de alto y el width dependera del contenido del mismo
-
-La fuente debe respetar el lineamiento general (14px Open Sans)
-
-Uso de color primary como color principal
-
-slingr-button
-
-Alineamiento de icono a la izquierda, 16px con un padding de 4px
-
-## **Alertas**
-
-Medidas: Full width x 52px
-
-Estilos: Usaremos los colores por defeto de BS3 (NO BS5); es decir: info success danger warning. 
-
-Contenido: el texto en dichas alertas debera estar en 14px, estilo bold (strong). Tambien puede contar con contenido secundario con la misma fuente pero en estilo normal, no bold.
-
-## **Header principal de aplicación**
-
-Medidas: full width x 50px (extensible segun el contenido, +12px por linea)
-
-Este header es el que contiene el que proovera contexto al usuario para decirle en qué aplicacion se encuentra, a la vez de permitirle al desarrollador alocar acciones globales.
-
-Elementos fijos:
-- Menú hamburguesa: 
-
-## **Header**
-
-Medidas: full width x 50px.
-
-Estilos: "Header Title" y  "Header Subtitle".
-
-Padding:
-
-En cuanto los estilos se divide en dos:
- - Title: Fuente de 16px, estilo bold (Strong) con fondo gris.
- - Subtitle: Fuente de 16px, estilo bold (Strong) con linea divisora gris, sin fondo.
-
- El color de fondo es el de por defecto #F1F1F1 y no agregamos customizacion de color al momento ya que es dificil hacer coincidir con el tema. 
-
-## **Contenedores**
-
-## **Modales**
-
-Medidas:
-- Auto
-- SM
-- LG
-- XL
 
 
-## **Labels**
-
-Para los labels, hemos decidido modificar el comportamiento del responsive (wrappeo) para los HTML Tags. Si se llegase a hacer un ajuste a los labels por defecto, deberiamos alinearlos con estos cambios.
-
-Le hemos agregado una mejoria para cortar los labels con la propiedad **word-break** setteada en **auto-phrase**. Esto se debe a que estabamos cortando las palabras para aprovechar espacio y no siendo concientes de la usabilidad de la misma. Respecto a grandes strings lo logico es poder ver toda la palabra en linea (por ejemplo un ID), asique este cambio se alinea con nuestra politica.
 
