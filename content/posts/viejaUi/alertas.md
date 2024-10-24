@@ -1,7 +1,7 @@
-## **Alertas**
+## **Alerts**
 
-Medidas: Full width x 52px
+Dimensions: full width x 52px.
 
-Estilos: Usaremos los colores por defeto de BS3 (NO BS5); es decir: info success danger warning. 
+Styles: We will use the default colors from BS3 (NOT BS5); that is: info, success, danger, warning.
 
-Contenido: el texto en dichas alertas debera estar en 14px, estilo bold (strong). Tambien puede contar con contenido secundario con la misma fuente pero en estilo normal, no bold.
+Content: The text in these alerts should be in 14px, bold (strong) style. It may also contain secondary content with the same font, but in regular style, not bold.

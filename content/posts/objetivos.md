@@ -4,68 +4,62 @@ date = 2024-10-02T12:03:48-03:00
 draft = true
 +++
 
-# Guia de UX para desarolladores
+# UX Guide for Developers
 ![Slingr logo](https://platform-docs.slingr.io/images/vendor/slingr_blue.png)
 
-## **Objetivo**
+## **Objective**
 
-Esta guía tiene como propósito principal establecer y documentar recomendaciones y mejores prácticas para diseñar y evaluar nuestro producto (SLINGR) centrado en el usuario. Esta debe ser un soporte para nuestros desarrolladores Front-End, así mantener consistencia en toda la plataforma, también reducir errores y simplificar los tiempos de desarrollo.
+The main purpose of this guide is to establish and document recommendations and best practices for designing and evaluating our user-centered product (SLINGR). It serves as support for our Front-End developers, ensuring consistency across the platform, reducing errors, and simplifying development time.
 
-## **Principios Generales**
+## **General Principles**
 
-Es necesario seguir lo que llamamos "Principios Generales de Diseño" para asegurar que la aplicación sea eficiente, intuitiva y agradable tanto para los usuarios asi como tambien los clientes finales. Estos principios ayudan a mantener la coherencia y la calidad en todo el proceso de desarrollo. A continuación, se describen algunos de los principios más importantes:
+It's essential to follow what we call "General Design Principles" to ensure that the application is efficient, intuitive, and pleasant for both users and end clients. These principles help maintain coherence and quality throughout the development process. Below are some of the most important principles:
 
-#### 1. **Consistencia**
-La consistencia es crucial para crear una experiencia de usuario intuitiva. Los usuarios deben poder anticipar el comportamiento del sistema en base a interacciones previas. La consistencia se aplica en varios niveles:
-- **Visual:** Uso uniforme de colores, tipografías, y estilos de botones, headers, contenedores, etc... en toda la aplicación.
-- **Funcional:** Comportamiento predecible de las interacciones, como clics, deslizamientos y toques.
-- **Terminología:** Uso coherente de términos y mensajes en toda la aplicación.
- 
-**Ejemplo:** Si un botón de "Guardar" siempre esta del lado derecho en una sección del runtime, debe debe estar del lado derecho en todas las secciones.
+#### 1. **Consistency**
+Consistency is crucial for creating an intuitive user experience. Users should be able to anticipate system behavior based on previous interactions. Consistency applies on several levels:
+- **Visual:** Uniform use of colors, fonts, and styles for buttons, headers, containers, etc., across the application.
+- **Functional:** Predictable behavior of interactions, such as clicks, swipes, and taps.
+- **Terminology:** Consistent use of terms and messages throughout the application.
 
-#### **2. Usabilidad**
-La usabilidad se refiere a qué tan fácil y eficiente es para los usuarios alcanzar sus objetivos en la aplicación. Un buen diseño debe facilitar una curva de aprendizaje rápida y minimizar los errores del usuario.
-- **Intuición:** La aplicación debe ser fácil de aprender sin la necesidad de una extensa capacitación.
-- **Accesibilidad:** El diseño debe considerar a todos los usuarios.
-- **Retroalimentación:** Proporcionar indicaciones claras de las acciones realizadas, como confirmaciones o mensajes de error.
+**Example:** If a "Save" button is always on the right side in one section of the runtime, it should be on the right side in all sections.
 
-**Ejemplo:** Un formulario con validación en tiempo real que muestre mensajes de error claros y específicos facilita a los usuarios completar la tarea correctamente.
+#### **2. Usability**
+Usability refers to how easy and efficient it is for users to achieve their goals within the application. Good design should facilitate a quick learning curve and minimize user errors.
+- **Intuition:** The application should be easy to learn without extensive training.
+- **Accessibility:** The design should consider all users.
+- **Feedback:** Provide clear indications of actions taken, such as confirmations or error messages.
 
-#### **3. Retroalimentación y Visibilidad**
-Los usuarios deben recibir retroalimentación inmediata de sus acciones y deben poder ver el estado actual del sistema.
-- **Retroalimentación inmediata:** Confirmar acciones, como clics en botones, con indicaciones visuales o auditivas.
-- **Visibilidad del estado:** Mostrar información del sistema relevante, como el progreso de una tarea o notificaciones de error.
+**Example:** A form with real-time validation that shows clear and specific error messages helps users complete tasks correctly.
 
-**Ejemplo:** Una barra de progreso que muestra el estado de una descarga o actualización.
+#### **3. Feedback and Visibility**
+Users should receive immediate feedback on their actions and should be able to see the system's current state.
+- **Immediate feedback:** Confirm actions, like button clicks, with visual or auditory cues.
+- **State visibility:** Display relevant system information, such as task progress or error notifications.
 
-#### **4. Diseño Centrado en el Usuario**
-Los desarrolladores deben poner a los usuarios en el centro del proceso de diseño, entendiendo sus necesidades y comportamientos.
-- **Investigación de usuarios:** Conducir pruebas de usuario y estudios para entender las necesidades reales de los usuarios.
-- **Iteración:** Revisar y mejorar el diseño continuamente basado en la retroalimentación del usuario.
+**Example:** A progress bar showing the status of a download or update.
 
-#### **5. Simplicidad y Minimalismo**
-La simplicidad en el diseño reduce la carga cognitiva de los usuarios y facilita la navegación.
-- **Eliminar lo innecesario:** Mantener solo los elementos esenciales y eliminar la complejidad innecesaria.
-- **Claridad:** Diseñar interfaces limpias y claras con un enfoque en las tareas principales.
+#### **4. User-Centered Design**
+Developers should place users at the center of the design process, understanding their needs and behaviors.
+- **User research:** Conduct user testing and studies to understand the real needs of users.
+- **Iteration:** Continuously review and improve design based on user feedback.
 
-**Ejemplo:** Un diseño de pantalla de inicio con acceso directo a las funciones más usadas y una navegación mínima.
+#### **5. Simplicity and Minimalism**
+Simplicity in design reduces the cognitive load on users and makes navigation easier.
+- **Remove the unnecessary:** Keep only essential elements and eliminate unnecessary complexity.
+- **Clarity:** Design clean and clear interfaces with a focus on primary tasks.
 
-### _Importancia de estos Principios_
+**Example:** A home screen design with direct access to the most-used functions and minimal navigation.
 
-Seguir estos principios no solo mejora la experiencia del usuario, sino que también:
-- **Fomenta la uniformidad:** Facilita la colaboración entre equipos de desarrollo y diseño.
-- **Reduce errores:** Minimiza los errores y la frustración del usuario.
-- **Mejora la eficiencia:** Aumenta la productividad del usuario y reduce la carga de soporte técnico.
-- **Incrementa la satisfacción del usuario:** Conduce a una mayor adopción y retención de la aplicación.
+### _Importance of these Principles_
 
-# Lineamientos de diseño visual para Runtime
+Following these principles not only enhances the user experience but also:
+- **Fosters uniformity:** Facilitates collaboration between development and design teams.
+- **Reduces errors:** Minimizes user errors and frustration.
+- **Improves efficiency:** Increases user productivity and reduces support load.
+- **Increases user satisfaction:** Leads to greater adoption and retention of the application.
 
-## **Fuente**
+# Visual Design Guidelines for Runtime
 
-Como fuente principal en Slingr utilizamos *Open Sans* en 14px.
+## **Font**
 
-
-
-
-
-
+As the primary font in Slingr, we use *Open Sans* at 14px.

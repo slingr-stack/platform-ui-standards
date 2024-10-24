@@ -1,4 +1,3 @@
-## **Iconos**
+## **Icons**
 
-Para los iconos vamos a utilizar tanto la libreria de Prime NG como la de Font Awesome, en vez de la vieja libreria de Boostrap.
-
+We will use both the PrimeNG library and the Font Awesome library, instead of the old Bootstrap library.

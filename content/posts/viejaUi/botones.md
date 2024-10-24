@@ -1,10 +1,11 @@
-## **Botones**
-En cuanto los botones utilizamos una medida estandard de 30px de alto y el width dependera del contenido del mismo
+## **Buttons**
 
-La fuente debe respetar el lineamiento general (14px Open Sans)
+For buttons, we use a standard height of 30px, and the width will depend on the content.
 
-Uso de color primary como color principal
+The font should follow the general guideline (14px Open Sans).
 
-slingr-button
+Use the primary color as the main color.
 
-Alineamiento de icono a la izquierda, 16px con un padding de 4px
+`slingr-button`
+
+Icon alignment to the left, 16px size with 4px padding.

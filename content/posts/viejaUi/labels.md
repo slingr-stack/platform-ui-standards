@@ -1,5 +1,5 @@
 ## **Labels**
 
-Para los labels, hemos decidido modificar el comportamiento del responsive (wrappeo) para los HTML Tags. Si se llegase a hacer un ajuste a los labels por defecto, deberiamos alinearlos con estos cambios.
+For labels, we have decided to modify the responsive behavior (wrapping) for HTML Tags. If any adjustments are made to the default labels, they should be aligned with these changes.
 
-Le hemos agregado una mejoria para cortar los labels con la propiedad **word-break** setteada en **auto-phrase**. Esto se debe a que estabamos cortando las palabras para aprovechar espacio y no siendo concientes de la usabilidad de la misma. Respecto a grandes strings lo logico es poder ver toda la palabra en linea (por ejemplo un ID), asique este cambio se alinea con nuestra politica.
+We have added an improvement by setting **word-break** to **auto-phrase**. This change was made because we were previously cutting off words to save space without considering usability. For longer strings, it's logical to display the entire word on a single line (such as an ID), so this change aligns with our policy.
