@@ -2,95 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/nuevaui/botones/</link>
+      <link>https://example.org/posts/nuevaui/botones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nuevaui/botones/</guid>
-      <description>&lt;h2 id=&#34;botones&#34;&gt;&lt;strong&gt;Botones&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Todos los botones contaran con el mismo tamaño de fuente, tamaño de icono y distribucion de colores. lo unico que variara es el largo.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;sm&lt;/code&gt;&lt;/strong&gt;: Border radius 6px, width responsive, height 35px, padding top bottom 8px&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;md&lt;/code&gt;&lt;/strong&gt;: Border radius 6px, width responsive, height 37px, padding top bottom 9px&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;lg&lt;/code&gt;&lt;/strong&gt;: Border radius 6px, width responsive, height 40px, padding top bottom 10.5px&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Padding derecha e izquierda 13px, y margin entre icono y texto 5px&lt;/p&gt;</description>
+      <guid>https://example.org/posts/nuevaui/botones/</guid>
+      <description>&lt;h2 id=&#34;buttons&#34;&gt;&lt;strong&gt;Buttons&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;All buttons will have the same font size, icon size, and color distribution. The only variation will be in length.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;sm&lt;/code&gt;&lt;/strong&gt;: Border radius 6px, responsive width, height 35px, padding top and bottom 8px&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;md&lt;/code&gt;&lt;/strong&gt;: Border radius 6px, responsive width, height 37px, padding top and bottom 9px&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;lg&lt;/code&gt;&lt;/strong&gt;: Border radius 6px, responsive width, height 40px, padding top and bottom 10.5px&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Padding for right and left is 13px, and the margin between icon and text is 5px.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/nuevaui/font/</link>
+      <link>https://example.org/posts/nuevaui/font/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nuevaui/font/</guid>
+      <guid>https://example.org/posts/nuevaui/font/</guid>
       <description>&lt;h2 id=&#34;fuentes&#34;&gt;&lt;strong&gt;Fuentes&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;Sidebar title&lt;/code&gt;&lt;/strong&gt;: 12px, Regular, ALL CAPS, primary color.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;Sidebar menu&lt;/code&gt;&lt;/strong&gt;: 14px, Regular, black.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;Page title&lt;/code&gt;&lt;/strong&gt;: 17px, Regular, black.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;User dropdown&lt;/code&gt;&lt;/strong&gt;: 15px, Bold, contrast color with primary.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;code&gt;Button font&lt;/code&gt;&lt;/strong&gt;: 14px, Semi bold, contrast color.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/nuevaui/form-fields/</link>
+      <link>https://example.org/posts/nuevaui/form-fields/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nuevaui/form-fields/</guid>
+      <guid>https://example.org/posts/nuevaui/form-fields/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/nuevaui/icons/</link>
+      <link>https://example.org/posts/nuevaui/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nuevaui/icons/</guid>
-      <description>&lt;h2 id=&#34;iconos&#34;&gt;&lt;strong&gt;Iconos&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Para los iconos vamos a utilizar tanto la libreria de Prime NG como la de Font Awesome, en vez de la vieja libreria de Boostrap.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/nuevaui/header/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/nuevaui/labels/</link>
+      <link>https://example.org/posts/nuevaui/icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nuevaui/labels/</guid>
+      <guid>https://example.org/posts/nuevaui/icons/</guid>
+      <description>&lt;h2 id=&#34;icons&#34;&gt;&lt;strong&gt;Icons&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;We will use both the PrimeNG library and the Font Awesome library, instead of the old Bootstrap library.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/posts/nuevaui/labels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/nuevaui/labels/</guid>
       <description>&lt;p&gt;For the labels we should implement the way that is applied on the now old ui.&#xA;Font 10.5px, 6px padding left and right, 3.5px top to bottom, semibold font.&#xA;As we can see in the last example, for the text break we use word-break: auto-phrase and text align center.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/nuevaui/old-overview/</link>
+      <link>https://example.org/posts/nuevaui/old-overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nuevaui/old-overview/</guid>
-      <description>&lt;h2 id=&#34;old-overview&#34;&gt;&lt;strong&gt;Old overview&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keep UI projects as clean as possible. Do not include things that are not going to be used: styles, libraries, components, etc.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ui-framework&#34;&gt;UI framework&lt;/h3&gt;&#xA;&lt;p&gt;Framework to be used: Angular. Advantages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Documentation.&lt;/li&gt;&#xA;&lt;li&gt;Community.&lt;/li&gt;&#xA;&lt;li&gt;Support.&lt;/li&gt;&#xA;&lt;li&gt;Roadmap&lt;/li&gt;&#xA;&lt;li&gt;Typescript.&lt;/li&gt;&#xA;&lt;li&gt;Speed and Performance.&lt;/li&gt;&#xA;&lt;li&gt;Large size of applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;angular-good-practices&#34;&gt;Angular good practices:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Respect modular development structure.&lt;/li&gt;&#xA;&lt;li&gt;Adhere To Key Angular Coding Standards&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The code should also not exceed 75 lines for each function.&lt;/li&gt;&#xA;&lt;li&gt;The code should not exceed the limit of 400 lines per file.&lt;/li&gt;&#xA;&lt;li&gt;There should be an empty line between imports and modules.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Variables with constant values should be declared with ‘const.’&lt;/li&gt;&#xA;&lt;li&gt;Single responsibility principle: It is important to not create more than one instance of any component, directive, or service within a single file.&lt;/li&gt;&#xA;&lt;li&gt;Split large components into smaller sizes&lt;/li&gt;&#xA;&lt;li&gt;Proper utilization of lazy loading.&lt;/li&gt;&#xA;&lt;li&gt;Use Angular in strict mode. I think it&amp;rsquo;s now the default one. This makes you have good practices and have everything typed.&lt;/li&gt;&#xA;&lt;li&gt;The Angular CLI is (command-line interface tool) is welcome.&lt;/li&gt;&#xA;&lt;li&gt;Use the lint recommended by Angular. Currently, Angular works great with ESLint. Just running ng lint will create a basic configuration. It&amp;rsquo;s recommended to install ES Lint, on visual studio code, so it shows you the error while working. This is just a suggestion, but it&amp;rsquo;s mandatory to run the ng lint command every time before pushing changes to make sure everything is properly written.&lt;/li&gt;&#xA;&lt;li&gt;Angular encourages you to have everything up to date. It has 2 major releases per year. We should try to update the projects at least one a year.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Preferably include external libraries per UI project.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/nuevaui/old-overview/</guid>
+      <description>&lt;h2 id=&#34;old-overview&#34;&gt;&lt;strong&gt;Old Overview&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keep UI projects as clean as possible. Do not include things that are not going to be used: styles, libraries, components, etc.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ui-framework&#34;&gt;UI Framework&lt;/h3&gt;&#xA;&lt;p&gt;Framework to be used: Angular. Advantages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Documentation&lt;/li&gt;&#xA;&lt;li&gt;Community&lt;/li&gt;&#xA;&lt;li&gt;Support&lt;/li&gt;&#xA;&lt;li&gt;Roadmap&lt;/li&gt;&#xA;&lt;li&gt;TypeScript&lt;/li&gt;&#xA;&lt;li&gt;Speed and performance&lt;/li&gt;&#xA;&lt;li&gt;Large size of applications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;angular-good-practices&#34;&gt;Angular Good Practices:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Respect modular development structure.&lt;/li&gt;&#xA;&lt;li&gt;Adhere to key Angular coding standards:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The code should not exceed 75 lines per function.&lt;/li&gt;&#xA;&lt;li&gt;The code should not exceed 400 lines per file.&lt;/li&gt;&#xA;&lt;li&gt;There should be an empty line between imports and modules.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Variables with constant values should be declared with &lt;code&gt;const.&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Single Responsibility Principle:&lt;/strong&gt; Do not create more than one instance of any component, directive, or service within a single file.&lt;/li&gt;&#xA;&lt;li&gt;Split large components into smaller sizes.&lt;/li&gt;&#xA;&lt;li&gt;Proper utilization of lazy loading.&lt;/li&gt;&#xA;&lt;li&gt;Use Angular in strict mode (it’s now the default). This enforces good practices and ensures everything is typed.&lt;/li&gt;&#xA;&lt;li&gt;The Angular CLI (Command-Line Interface tool) is recommended.&lt;/li&gt;&#xA;&lt;li&gt;Use the lint recommended by Angular. Angular works great with ESLint. Running &lt;code&gt;ng lint&lt;/code&gt; will create a basic configuration. It’s recommended to install ESLint in Visual Studio Code to show errors while working. This is just a suggestion, but it’s mandatory to run &lt;code&gt;ng lint&lt;/code&gt; before pushing changes to ensure everything is properly written.&lt;/li&gt;&#xA;&lt;li&gt;Angular encourages you to stay up to date. It has 2 major releases per year. We should aim to update projects at least once a year.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Preferably, include external libraries per UI project.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/viejaui/alertas/</link>
+      <link>https://example.org/posts/viejaui/alertas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/viejaui/alertas/</guid>
-      <description>&lt;h2 id=&#34;alertas&#34;&gt;&lt;strong&gt;Alertas&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Medidas: Full width x 52px&lt;/p&gt;&#xA;&lt;p&gt;Estilos: Usaremos los colores por defeto de BS3 (NO BS5); es decir: info success danger warning.&lt;/p&gt;&#xA;&lt;p&gt;Contenido: el texto en dichas alertas debera estar en 14px, estilo bold (strong). Tambien puede contar con contenido secundario con la misma fuente pero en estilo normal, no bold.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/viejaui/alertas/</guid>
+      <description>&lt;h2 id=&#34;alerts&#34;&gt;&lt;strong&gt;Alerts&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Dimensions: full width x 52px.&lt;/p&gt;&#xA;&lt;p&gt;Styles: We will use the default colors from BS3 (NOT BS5); that is: info, success, danger, warning.&lt;/p&gt;&#xA;&lt;p&gt;Content: The text in these alerts should be in 14px, bold (strong) style. It may also contain secondary content with the same font, but in regular style, not bold.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/viejaui/botones/</link>
+      <link>https://example.org/posts/viejaui/botones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/viejaui/botones/</guid>
-      <description>&lt;h2 id=&#34;botones&#34;&gt;&lt;strong&gt;Botones&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;En cuanto los botones utilizamos una medida estandard de 30px de alto y el width dependera del contenido del mismo&lt;/p&gt;&#xA;&lt;p&gt;La fuente debe respetar el lineamiento general (14px Open Sans)&lt;/p&gt;&#xA;&lt;p&gt;Uso de color primary como color principal&lt;/p&gt;&#xA;&lt;p&gt;slingr-button&lt;/p&gt;&#xA;&lt;p&gt;Alineamiento de icono a la izquierda, 16px con un padding de 4px&lt;/p&gt;</description>
+      <guid>https://example.org/posts/viejaui/botones/</guid>
+      <description>&lt;h2 id=&#34;buttons&#34;&gt;&lt;strong&gt;Buttons&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;For buttons, we use a standard height of 30px, and the width will depend on the content.&lt;/p&gt;&#xA;&lt;p&gt;The font should follow the general guideline (14px Open Sans).&lt;/p&gt;&#xA;&lt;p&gt;Use the primary color as the main color.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;slingr-button&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Icon alignment to the left, 16px size with 4px padding.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/viejaui/header/</link>
+      <link>https://example.org/posts/viejaui/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/viejaui/header/</guid>
-      <description>&lt;h2 id=&#34;header-principal-de-aplicación&#34;&gt;&lt;strong&gt;Header principal de aplicación&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Medidas: full width x 50px (extensible segun el contenido, +12px por linea)&lt;/p&gt;&#xA;&lt;p&gt;Este header es el que contiene el que proovera contexto al usuario para decirle en qué aplicacion se encuentra, a la vez de permitirle al desarrollador alocar acciones globales.&lt;/p&gt;&#xA;&lt;p&gt;Elementos fijos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Menú hamburguesa:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;header&#34;&gt;&lt;strong&gt;Header&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Medidas: full width x 50px.&lt;/p&gt;&#xA;&lt;p&gt;Estilos: &amp;ldquo;Header Title&amp;rdquo; y  &amp;ldquo;Header Subtitle&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Padding:&lt;/p&gt;&#xA;&lt;p&gt;En cuanto los estilos se divide en dos:&lt;/p&gt;</description>
+      <guid>https://example.org/posts/viejaui/header/</guid>
+      <description>&lt;h2 id=&#34;main-application-header&#34;&gt;&lt;strong&gt;Main Application Header&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Dimensions: full width x 50px (extendable based on content, +12px per line)&lt;/p&gt;&#xA;&lt;p&gt;This header provides context to the user, indicating which application they are in, while also allowing the developer to allocate global actions.&lt;/p&gt;&#xA;&lt;p&gt;Fixed elements:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hamburger menu:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;header&#34;&gt;&lt;strong&gt;Header&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Dimensions: full width x 50px.&lt;/p&gt;&#xA;&lt;p&gt;Styles: &amp;ldquo;Header Title&amp;rdquo; and &amp;ldquo;Header Subtitle.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Padding:&lt;/p&gt;&#xA;&lt;p&gt;The styles are divided into two:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Title: 16px font, bold (Strong) style with a gray background.&lt;/li&gt;&#xA;&lt;li&gt;Subtitle: 16px font, bold (Strong) style with a gray dividing line, no background.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The default background color is #F1F1F1, and we haven&amp;rsquo;t added color customization yet because it&amp;rsquo;s difficult to match with the theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/viejaui/labels/</link>
+      <link>https://example.org/posts/viejaui/labels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/viejaui/labels/</guid>
-      <description>&lt;h2 id=&#34;labels&#34;&gt;&lt;strong&gt;Labels&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Para los labels, hemos decidido modificar el comportamiento del responsive (wrappeo) para los HTML Tags. Si se llegase a hacer un ajuste a los labels por defecto, deberiamos alinearlos con estos cambios.&lt;/p&gt;&#xA;&lt;p&gt;Le hemos agregado una mejoria para cortar los labels con la propiedad &lt;strong&gt;word-break&lt;/strong&gt; setteada en &lt;strong&gt;auto-phrase&lt;/strong&gt;. Esto se debe a que estabamos cortando las palabras para aprovechar espacio y no siendo concientes de la usabilidad de la misma. Respecto a grandes strings lo logico es poder ver toda la palabra en linea (por ejemplo un ID), asique este cambio se alinea con nuestra politica.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/viejaui/labels/</guid>
+      <description>&lt;h2 id=&#34;labels&#34;&gt;&lt;strong&gt;Labels&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;For labels, we have decided to modify the responsive behavior (wrapping) for HTML Tags. If any adjustments are made to the default labels, they should be aligned with these changes.&lt;/p&gt;&#xA;&lt;p&gt;We have added an improvement by setting &lt;strong&gt;word-break&lt;/strong&gt; to &lt;strong&gt;auto-phrase&lt;/strong&gt;. This change was made because we were previously cutting off words to save space without considering usability. For longer strings, it&amp;rsquo;s logical to display the entire word on a single line (such as an ID), so this change aligns with our policy.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/viejaui/tabla/</link>
+      <link>https://example.org/posts/viejaui/tabla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/viejaui/tabla/</guid>
+      <guid>https://example.org/posts/viejaui/tabla/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/viejaui/temas/</link>
+      <link>https://example.org/posts/viejaui/temas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/viejaui/temas/</guid>
-      <description>&lt;h2 id=&#34;temas-y-colores&#34;&gt;&lt;strong&gt;Temas y colores&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Los temas se componen del siguiente listado de colores:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Primary ()&lt;/li&gt;&#xA;&lt;li&gt;Secondary&lt;/li&gt;&#xA;&lt;li&gt;Terciary&lt;/li&gt;&#xA;&lt;li&gt;Info&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Estos generalmente son previstos por clientes y nos van a dar las indicaciones necesarias para poder identificar cada color.&#xA;Lo recomendable es que para los colores de &lt;strong&gt;Warning, Danger y Success&lt;/strong&gt;, utilicemos amarillos rojos y verdes que hagan buen contraste con el color. Esto lo podemos obtener del cliente o bien consultando con UX.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/viejaui/temas/</guid>
+      <description>&lt;h2 id=&#34;themes-and-colors&#34;&gt;&lt;strong&gt;Themes and Colors&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Themes are composed of the following list of colors:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Primary&lt;/li&gt;&#xA;&lt;li&gt;Secondary&lt;/li&gt;&#xA;&lt;li&gt;Tertiary&lt;/li&gt;&#xA;&lt;li&gt;Info&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;These are generally provided by clients, who will give us the necessary guidance to identify each color.&#xA;It is recommended that for &lt;strong&gt;Warning, Danger, and Success&lt;/strong&gt; colors, we use yellows, reds, and greens that contrast well with the theme. We can obtain these from the client or by consulting with UX.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

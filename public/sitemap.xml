@@ -2,38 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-10-02T12:03:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2024-10-02T12:03:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/nuevaui/botones/</loc>
+    <loc>https://example.org/posts/nuevaui/botones/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/nuevaui/font/</loc>
+    <loc>https://example.org/posts/nuevaui/font/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/nuevaui/form-fields/</loc>
+    <loc>https://example.org/posts/nuevaui/form-fields/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/nuevaui/icons/</loc>
+    <loc>https://example.org/posts/nuevaui/header/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/nuevaui/labels/</loc>
+    <loc>https://example.org/posts/nuevaui/icons/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/nuevaui/old-overview/</loc>
+    <loc>https://example.org/posts/nuevaui/labels/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/viejaui/alertas/</loc>
+    <loc>https://example.org/posts/nuevaui/old-overview/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/viejaui/botones/</loc>
+    <loc>https://example.org/posts/viejaui/alertas/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/viejaui/header/</loc>
+    <loc>https://example.org/posts/viejaui/botones/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/viejaui/labels/</loc>
+    <loc>https://example.org/posts/viejaui/header/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/viejaui/tabla/</loc>
+    <loc>https://example.org/posts/viejaui/labels/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/viejaui/temas/</loc>
+    <loc>https://example.org/posts/viejaui/tabla/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/posts/viejaui/temas/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
