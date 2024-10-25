@@ -1,4 +1,4 @@
-## **Fuentes**
+## **Fonts**
 
 - **`Sidebar title`**: 12px, Regular, ALL CAPS, primary color.
 - **`Sidebar menu`**: 14px, Regular, black.
