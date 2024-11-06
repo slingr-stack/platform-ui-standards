@@ -7,59 +7,68 @@ draft = true
 # UX Guide for Developers
 ![Slingr logo](https://platform-docs.slingr.io/images/vendor/slingr_blue.png)
 
-## **Objective**
+## Objective
 
-The main purpose of this guide is to establish and document recommendations and best practices for designing and evaluating our user-centered product (SLINGR). It serves as support for our Front-End developers, ensuring consistency across the platform, reducing errors, and simplifying development time.
+The primary purpose of this guide is to establish and document recommendations and best practices for designing and evaluating SLINGR as a user-centered product. This guide supports our Front-End developers, ensuring consistency across the platform, reducing errors, and simplifying development time.
 
-## **General Principles**
+---
 
-It's essential to follow what we call "General Design Principles" to ensure that the application is efficient, intuitive, and pleasant for both users and end clients. These principles help maintain coherence and quality throughout the development process. Below are some of the most important principles:
+## General Principles
 
-#### 1. **Consistency**
-Consistency is crucial for creating an intuitive user experience. Users should be able to anticipate system behavior based on previous interactions. Consistency applies on several levels:
-- **Visual:** Uniform use of colors, fonts, and styles for buttons, headers, containers, etc., across the application.
-- **Functional:** Predictable behavior of interactions, such as clicks, swipes, and taps.
-- **Terminology:** Consistent use of terms and messages throughout the application.
+Adhering to **General Design Principles** is essential to creating an efficient, intuitive, and enjoyable application for both users and end clients. These principles maintain coherence and quality throughout the development process.
 
-**Example:** If a "Save" button is always on the right side in one section of the runtime, it should be on the right side in all sections.
+### 1. Consistency
+Consistency is key to an intuitive user experience, allowing users to anticipate system behavior based on previous interactions. Consistency should be applied across:
 
-#### **2. Usability**
-Usability refers to how easy and efficient it is for users to achieve their goals within the application. Good design should facilitate a quick learning curve and minimize user errors.
-- **Intuition:** The application should be easy to learn without extensive training.
-- **Accessibility:** The design should consider all users.
-- **Feedback:** Provide clear indications of actions taken, such as confirmations or error messages.
+- **Visual Elements**: Uniform use of colors, fonts, and styles for buttons, headers, containers, etc., throughout the application.
+- **Functional Interactions**: Predictable behaviors for clicks, swipes, and taps.
+- **Terminology**: Consistent language and messages across the application.
 
-**Example:** A form with real-time validation that shows clear and specific error messages helps users complete tasks correctly.
+*Example*: If a "Save" button is positioned on the right side in one section, it should be on the right side in all sections.
 
-#### **3. Feedback and Visibility**
-Users should receive immediate feedback on their actions and should be able to see the system's current state.
-- **Immediate feedback:** Confirm actions, like button clicks, with visual or auditory cues.
-- **State visibility:** Display relevant system information, such as task progress or error notifications.
+### 2. Usability
+Usability measures how easily users can accomplish their goals within the application. Good design should facilitate quick learning and minimize errors.
 
-**Example:** A progress bar showing the status of a download or update.
+- **Intuition**: The application should be intuitive, requiring minimal training.
+- **Accessibility**: Design for all users, considering varying abilities.
+- **Feedback**: Provide clear feedback for actions taken, such as confirmations or error messages.
 
-#### **4. User-Centered Design**
-Developers should place users at the center of the design process, understanding their needs and behaviors.
-- **User research:** Conduct user testing and studies to understand the real needs of users.
-- **Iteration:** Continuously review and improve design based on user feedback.
+*Example*: A form with real-time validation that shows clear and specific error messages to guide users.
 
-#### **5. Simplicity and Minimalism**
-Simplicity in design reduces the cognitive load on users and makes navigation easier.
-- **Remove the unnecessary:** Keep only essential elements and eliminate unnecessary complexity.
-- **Clarity:** Design clean and clear interfaces with a focus on primary tasks.
+### 3. Feedback and Visibility
+Users should receive immediate feedback on their actions and see the system's current state.
 
-**Example:** A home screen design with direct access to the most-used functions and minimal navigation.
+- **Immediate Feedback**: Confirm actions, like button clicks, with visual or auditory cues.
+- **State Visibility**: Display system information, such as task progress or error notifications.
 
-### _Importance of these Principles_
+*Example*: A progress bar showing the status of a download or update.
 
-Following these principles not only enhances the user experience but also:
-- **Fosters uniformity:** Facilitates collaboration between development and design teams.
-- **Reduces errors:** Minimizes user errors and frustration.
-- **Improves efficiency:** Increases user productivity and reduces support load.
-- **Increases user satisfaction:** Leads to greater adoption and retention of the application.
+### 4. User-Centered Design
+Developers should prioritize users, understanding their needs and behaviors to create meaningful experiences.
 
-# Visual Design Guidelines for Runtime
+- **User Research**: Conduct testing and studies to understand real user needs.
+- **Iteration**: Continuously review and improve design based on user feedback.
 
-## **Font**
+### 5. Simplicity and Minimalism
+A simple design reduces cognitive load and eases navigation.
 
-As the primary font in Slingr, we use *Open Sans* at 14px.
+- **Remove the Unnecessary**: Retain only essential elements and avoid complexity.
+- **Clarity**: Focus on clean interfaces that emphasize primary tasks.
+
+*Example*: A home screen with direct access to frequently used functions and minimal navigation.
+
+### Importance of These Principles
+
+Following these principles not only enhances user experience but also:
+
+- **Fosters Uniformity**: Facilitates collaboration between development and design teams.
+- **Reduces Errors**: Minimizes user mistakes and frustration.
+- **Improves Efficiency**: Boosts productivity and reduces support load.
+- **Increases User Satisfaction**: Leads to higher adoption and retention.
+
+---
+
+## Visual Design Guidelines for Runtime
+
+### Font
+- **Primary Font**: The standard font for SLINGR is *Open Sans*, set at 14px for optimal readability.
