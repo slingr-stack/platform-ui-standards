@@ -1,6 +1,11 @@
-## **Labels**
+### Label Standards
 
-For the labels we should implement the way that is applied on the now old ui.
-Font 10.5px, 6px padding left and right, 3.5px top to bottom, semibold font.
-As we can see in the last example, for the text break we use word-break: auto-phrase and text align center.
+To maintain consistency between the old UI and the new UI, follow these guidelines when styling labels:
+
+- **Font Size**: 10.5px
+- **Padding**: 6px left and right, 3.5px top and bottom
+- **Font Weight**: Semibold
+- **Text Wrapping**: Set `word-break: break-word;` to manage text overflow
+- **Text Alignment**: Center text within the label
+
 
